@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<rect width="100%" height="100%" rx="24" fill="#0d1117"/>
+<text x="55" y="52" font-size="34" font-weight="700" fill="#f0f6fc">InsiderGuard</text>
+<text x="55" y="78" font-size="17" fill="#8b949e">Synthetic replay dashboard preview</text>
+<rect x="55" y="100" rx="14" width="200" height="90" fill="#161b22" stroke="#30363d"/>
+<text x="73" y="132" font-size="16" fill="#8b949e">Precision</text><text x="73" y="170" font-size="30" font-weight="700" fill="#f0f6fc">1.00</text><rect x="280" y="100" rx="14" width="200" height="90" fill="#161b22" stroke="#30363d"/>
+<text x="298" y="132" font-size="16" fill="#8b949e">Recall</text><text x="298" y="170" font-size="30" font-weight="700" fill="#f0f6fc">0.80</text><rect x="505" y="100" rx="14" width="200" height="90" fill="#161b22" stroke="#30363d"/>
+<text x="523" y="132" font-size="16" fill="#8b949e">FPR</text><text x="523" y="170" font-size="30" font-weight="700" fill="#f0f6fc">0.00</text><rect x="730" y="100" rx="14" width="200" height="90" fill="#161b22" stroke="#30363d"/>
+<text x="748" y="132" font-size="16" fill="#8b949e">Events</text><text x="748" y="170" font-size="30" font-weight="700" fill="#f0f6fc">10</text>
+<rect x="55" y="225" rx="14" width="1090" height="62" fill="#161b22" stroke="#30363d"/>
+<text x="80" y="264" font-size="20" fill="#58a6ff">Events → Baseline → Score → Sequence → Investigate</text>
+</svg>
